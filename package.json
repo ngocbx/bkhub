@@ -16,7 +16,7 @@
     "dateformat": "^3.0.3",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.4.22",
     "socket.io": "^2.2.0"
   }
